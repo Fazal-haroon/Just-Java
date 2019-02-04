@@ -29,7 +29,7 @@
      <string name="chocolate">Chocolate</string>
 
      <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-     <string name="quantity">Quantity</string>
+     <string name="quantity">Quantity/amount</string>
 
      <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
      <string name="initial_quantity_value">2</string>
